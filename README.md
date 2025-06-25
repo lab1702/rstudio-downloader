@@ -25,9 +25,9 @@ The script requires the following tools:
 
 1. Download the script:
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/rstudio-downloader/main/download-rstudio.sh
+curl -O https://raw.githubusercontent.com/lab1702/rstudio-downloader/main/download-rstudio.sh
 # or
-wget https://raw.githubusercontent.com/yourusername/rstudio-downloader/main/download-rstudio.sh
+wget https://raw.githubusercontent.com/lab1702/rstudio-downloader/main/download-rstudio.sh
 ```
 
 2. Make it executable:

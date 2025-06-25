@@ -5,10 +5,10 @@
 # A robust script to automatically detect your Linux distribution and download 
 # the latest version of RStudio Desktop from Posit's official servers.
 #
-# Author: RStudio Downloader Script
+# Author: lab1702
 # Version: 1.0.0
 # License: MIT
-# Repository: https://github.com/yourusername/rstudio-downloader
+# Repository: https://github.com/lab1702/rstudio-downloader
 # 
 # Requirements:
 #   - bash 4.0+
